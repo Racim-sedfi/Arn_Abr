@@ -1,0 +1,25 @@
+# Compilation / Maven
+target/
+*.class
+*.jar
+
+
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Fichiers de verrou LibreOffice
+.~lock.*#
+
+# Système
+.DS_Store
+Thumbs.db
